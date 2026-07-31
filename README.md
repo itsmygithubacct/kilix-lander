@@ -1,4 +1,4 @@
-# Terminal Lander
+# Kilix Lander
 
 Kitty-protocol Lunar Lander in C: a software-rendered RGBA framebuffer,
 zlib/base64 kitty graphics, exact press/release keyboard input, banked physical
@@ -12,7 +12,10 @@ landing tolerances, and crash particles.
 Built for Linux and kitty-protocol terminals such as kitty, ghostty, and
 wezterm.
 
-![Terminal Lander: a small lander descends toward a lit pad over lunar terrain](docs/screenshot.png)
+![Kilix Lander: a small lander descends toward a lit pad over lunar terrain](docs/screenshot.png)
+
+The executable remains `terminal-lander` for compatibility with existing Kilix
+installations and scripts.
 
 ## Features
 

@@ -1,5 +1,5 @@
 /*
- * Terminal Lander - kitty-protocol lunar lander.
+ * Kilix Lander - kitty-protocol lunar lander.
  *
  * The layout follows Bashed Earth: a global game state, fixed-timestep
  * simulation, software-rendered RGBA framebuffer, and term.c presenting it

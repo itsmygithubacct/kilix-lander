@@ -511,8 +511,8 @@ static void draw_title(void)
 {
     int px, py;
     panel(700, 348, &px, &py);
-    draw_text_outlined(W / 2.0f - text_width("TERMINAL LANDER", 3) / 2.0f,
-                       py + 34, "TERMINAL LANDER", 0x7dd3fc, 1, 3);
+    draw_text_outlined(W / 2.0f - text_width("KILIX LANDER", 3) / 2.0f,
+                       py + 34, "KILIX LANDER", 0x7dd3fc, 1, 3);
     draw_text_center(W / 2.0f, py + 94, "lunar landing in a kitty terminal", 0xa1a1aa, 1, 1);
     char buf[128];
     snprintf(buf, sizeof buf, "DIFFICULTY      < %s >", DIFFICULTY_NAMES[G.difficulty]);

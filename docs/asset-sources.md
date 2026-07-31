@@ -14,7 +14,7 @@ rubberduck's metal, impact, breaking, and falling collections. The C
 synthesizer remains only as a missing-asset fallback.
 
 The aircraft generator's complete admissible source bank also contains
-egomassive's CC0 `Tire.ogg`. Terminal Lander uses the `lander` craft profile,
+egomassive's CC0 `Tire.ogg`. Kilix Lander uses the `lander` craft profile,
 whose pad-gear touchdown branch never loads that tire recording. It is credited
 in `audio-provenance.json` as a bank-only source and is not attributed to crash,
 landing, or any runtime artifact, because no shipped WAV contains it.
